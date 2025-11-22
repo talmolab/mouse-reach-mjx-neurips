@@ -5,3 +5,6 @@ This repo allows for the reproduction of the figures presented in:
 Leonardis, E., Nagamori, A., Yang, Y., Park, J., Saunders, H.,  Azim, E., Pereira, T. D. (Accepted) Massively Parallel Imitation Learning of Mouse Forelimb Musculoskeletal Reaching Dynamics.  NeurIPS 2025: Data on the Brain & Mind Concrete Applications of AI to Neuroscience and Cognitive Science Workshop, San Diego, CA
 
 Requires track-mjx which is available at https://github.com/talmolab/track-mjx
+
+<img width="1589" height="326" alt="arm_img" src="https://github.com/user-attachments/assets/69377199-05ec-48ce-bb82-c9438e71a151" />
+
