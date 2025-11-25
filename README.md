@@ -1,11 +1,4 @@
 # mouse-reach-mjx-neurips
-Below is an expanded README that stays **strictly aligned with your repo**, **does not mention STAC-MJX**, and **tells the user to begin with the demo notebook** exactly as you described. It assumes the repo contains the three notebooks you uploaded (`demo_batch_rollout_PCA_figures.ipynb`, `emg_figures.ipynb`, `pyedm_figures.ipynb`).
-
-You can paste this directly into **README.md**.
-
----
-
-# mouse-reach-mjx-neurips
 
 High-throughput imitation learning for a musculoskeletal mouse forelimb model in **JAX-accelerated MuJoCo-MJX**.
 
