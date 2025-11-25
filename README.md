@@ -1,5 +1,7 @@
  # mouse-reach-mjx-neurips
- 
+
+ <img width="1589" height="326" alt="arm_img" src="https://github.com/user-attachments/assets/69377199-05ec-48ce-bb82-c9438e71a151" />
+
 High-throughput imitation learning for a musculoskeletal mouse forelimb model in **JAX-accelerated MuJoCo-MJX**.
 
 This repository reproduces all figures and analyses from:
@@ -138,7 +140,5 @@ Leonardis, E., Nagamori, A., Yang, Y., Park, J., Saunders, H.,  Azim, E., Pereir
 
 ---
 
-
-<img width="1589" height="326" alt="arm_img" src="https://github.com/user-attachments/assets/69377199-05ec-48ce-bb82-c9438e71a151" />
 
 [![Demo Video](https://img.youtube.com/vi/t2uQnJqCkKQ/0.jpg)](https://youtu.be/t2uQnJqCkKQ)
