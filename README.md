@@ -139,16 +139,6 @@ Learning of Mouse Forelimb Musculoskeletal Reaching Dynamics.  NeurIPS 2025: Dat
 
 ---
 
-If you want, I can also:
-
-* Add badges
-* Add an installation script
-* Add examples of typical rollout `.h5` structures
-* Add animated GIFs of the imitation rollouts
-* Polish for PyPI or HuggingFace Spaces
-
-Just tell me.
-
 
 <img width="1589" height="326" alt="arm_img" src="https://github.com/user-attachments/assets/69377199-05ec-48ce-bb82-c9438e71a151" />
 
