@@ -6,7 +6,7 @@ High-throughput imitation learning for a musculoskeletal mouse forelimb model in
 
 This repository reproduces all figures and analyses from:
 
-**Leonardis, E., Nagamori, A., Yang, Y., Park, J., Saunders, H., Azim, E., Pereira, T. D. (Accepted).**
+**Leonardis, E., Nagamori, A., Yang, Y., Park, J., Saunders, H., Azim, E., Pereira, T. D. (2025).**
 *Massively Parallel Imitation Learning of Mouse Forelimb Musculoskeletal Reaching Dynamics.*
 NeurIPS 2025 Workshop: *Data on the Brain & Mind – Concrete Applications of AI to Neuroscience and Cognitive Science*, San Diego, CA.
 
