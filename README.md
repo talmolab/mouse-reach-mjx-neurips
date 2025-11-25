@@ -139,6 +139,6 @@ Leonardis, E., Nagamori, A., Yang, Y., Park, J., Saunders, H.,  Azim, E., Pereir
 ```
 
 ---
-
+Click the image below to watch Supplementary Video 1:
 
 [![Demo Video](https://img.youtube.com/vi/t2uQnJqCkKQ/0.jpg)](https://youtu.be/t2uQnJqCkKQ)
