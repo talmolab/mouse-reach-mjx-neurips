@@ -10,6 +10,8 @@ This repository reproduces all figures and analyses from:
 *Massively Parallel Imitation Learning of Mouse Forelimb Musculoskeletal Reaching Dynamics.*
 NeurIPS 2025 Workshop: *Data on the Brain & Mind – Concrete Applications of AI to Neuroscience and Cognitive Science*, San Diego, CA.
 
+The conference paper is available at: [https://openreview.net/pdf?id=jJS0ZT0F8x]
+
 The project depends on **track-mjx**, which provides the imitation-learning infrastructure and high-throughput GPU rollouts:
 [https://github.com/talmolab/track-mjx](https://github.com/talmolab/track-mjx)
 
