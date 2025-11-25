@@ -98,27 +98,6 @@ This reproduces the nonlinear forecasting analysis in the manuscript.
 
 ---
 
-## Directory Structure
-
-```
-mouse-reach-mjx-neurips/
-│
-├── notebooks/
-│   ├── demo_batch_rollout_PCA_figures.ipynb
-│   ├── emg_figures.ipynb
-│   └── pyedm_figures.ipynb
-│
-├── configs/
-│   └── training_config.yaml        # Matches Table 2 (joint-only / physics-aware)
-│
-├── scripts/
-│   └── train_mjx_mouse_arm.py     # Optional: training entry point
-│
-└── README.md
-```
-
----
-
 ## Data Availability (External)
 
 You can download the datasets described in the paper here:
@@ -154,9 +133,8 @@ Run the following notebooks in order:
 If you use this repository, please cite:
 
 ```
-Leonardis, E., Nagamori, A., Yang, Y., Park, J., Saunders, H., Azim, E., Pereira, T.D.
-Massively Parallel Imitation Learning of Mouse Forelimb Musculoskeletal Reaching Dynamics.
-NeurIPS 2025 Workshop: Data on the Brain & Mind.
+Leonardis, E., Nagamori, A., Yang, Y., Park, J., Saunders, H.,  Azim, E., Pereira, T. D. (Accepted) Massively Parallel Imitation 
+Learning of Mouse Forelimb Musculoskeletal Reaching Dynamics.  NeurIPS 2025: Data on the Brain & Mind Concrete Applications of AI to Neuroscience and Cognitive Science Workshop, San Diego, CA
 ```
 
 ---
