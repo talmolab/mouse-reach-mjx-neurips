@@ -137,7 +137,7 @@ Run the following notebooks in order:
 If you use this repository, please cite:
 
 ```
-Leonardis, E., Nagamori, A., Yang, Y., Park, J., Saunders, H.,  Azim, E., Pereira, T. D. (Accepted) Massively Parallel Imitation Learning of Mouse Forelimb Musculoskeletal Reaching Dynamics.  NeurIPS 2025: Data on the Brain & Mind Concrete Applications of AI to Neuroscience and Cognitive Science Workshop, San Diego, CA
+Leonardis, E., Nagamori, A., Yang, Y., Park, J., Saunders, H.,  Azim, E., Pereira, T. D. (2025) Massively Parallel Imitation Learning of Mouse Forelimb Musculoskeletal Reaching Dynamics.  NeurIPS 2025: Data on the Brain & Mind Concrete Applications of AI to Neuroscience and Cognitive Science Workshop, San Diego, CA
 ```
 
 ---
